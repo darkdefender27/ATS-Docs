@@ -1,0 +1,36 @@
+\select@language {english}
+\contentsline {chapter}{\numberline {1}Acknowledgement}{3}{chapter.1}
+\contentsline {chapter}{\numberline {2}Contributors}{5}{chapter.2}
+\contentsline {section}{\numberline {2.1}Mentors}{5}{section.2.1}
+\contentsline {chapter}{\numberline {3}Declaration}{7}{chapter.3}
+\contentsline {chapter}{\numberline {4}Introduction}{9}{chapter.4}
+\contentsline {section}{\numberline {4.1}Documentation Purpose}{9}{section.4.1}
+\contentsline {section}{\numberline {4.2}Project Scope}{9}{section.4.2}
+\contentsline {section}{\numberline {4.3}Intended Audience and Document Overview}{9}{section.4.3}
+\contentsline {section}{\numberline {4.4}Definitions, Acronyms and Abbreviations}{10}{section.4.4}
+\contentsline {section}{\numberline {4.5}Document Conventions}{10}{section.4.5}
+\contentsline {section}{\numberline {4.6}References}{10}{section.4.6}
+\contentsline {chapter}{\numberline {5}List of Diagrams}{11}{chapter.5}
+\contentsline {chapter}{\numberline {6}Product Perspective}{13}{chapter.6}
+\contentsline {section}{\numberline {6.1}User Characteristics}{13}{section.6.1}
+\contentsline {section}{\numberline {6.2}Operating Environment}{13}{section.6.2}
+\contentsline {section}{\numberline {6.3}Dependencies}{13}{section.6.3}
+\contentsline {section}{\numberline {6.4}Design and Implementation constraints}{14}{section.6.4}
+\contentsline {section}{\numberline {6.5}Specific Requirements}{14}{section.6.5}
+\contentsline {subsection}{\numberline {6.5.1}External user Requirement}{14}{subsection.6.5.1}
+\contentsline {chapter}{\numberline {7}Functional Requirements}{15}{chapter.7}
+\contentsline {section}{\numberline {7.1}Major functions of the Discussion Forums}{15}{section.7.1}
+\contentsline {section}{\numberline {7.2}Major functions of the Login and Registration System}{15}{section.7.2}
+\contentsline {section}{\numberline {7.3}Major functions of the Ticketing System}{15}{section.7.3}
+\contentsline {section}{\numberline {7.4}FAQs (frequently asked questions)}{16}{section.7.4}
+\contentsline {chapter}{\numberline {8}Behavioral Requirements}{17}{chapter.8}
+\contentsline {chapter}{\numberline {9}Non Functional Requirements}{19}{chapter.9}
+\contentsline {section}{\numberline {9.1}Performance Requirements}{19}{section.9.1}
+\contentsline {section}{\numberline {9.2}Software Quality Attributes}{19}{section.9.2}
+\contentsline {chapter}{\numberline {10}Diagrammatic Descriptions}{21}{chapter.10}
+\contentsline {section}{\numberline {10.1}Data Flow Diagrams for Aakash Tech Support Portal}{21}{section.10.1}
+\contentsline {section}{\numberline {10.2}Sequence Diagrams}{21}{section.10.2}
+\contentsline {section}{\numberline {10.3}Flow Chart for Reporting a Problem}{23}{section.10.3}
+\contentsline {section}{\numberline {10.4}Entity relationship diagram}{23}{section.10.4}
+\contentsline {chapter}{\numberline {11}Conclusion}{25}{chapter.11}
+\contentsline {chapter}{\numberline {12}Indices and tables}{27}{chapter.12}
